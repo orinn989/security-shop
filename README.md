@@ -107,7 +107,7 @@ Hệ thống được thiết kế theo chuẩn Database Normalization, các Ent
 
 **1. Clone repository**
 ```bash
-git clone https://github.com/yourusername/secureshop.git
+git clone https://github.com/orinn989/security-shop.git
 cd secureshop
 ```
 
